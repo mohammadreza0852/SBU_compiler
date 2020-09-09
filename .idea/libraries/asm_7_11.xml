@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="asm-7.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/asm-7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/asm-tree-7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/asm-util-7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-cup-11b-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-cup-11b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

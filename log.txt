@@ -1,0 +1,38 @@
+compiling program
+Initializing code generator
+declaring struct field
+declaring struct field
+declaring struct field
+declaring struct field
+declaring struct field
+initializing struct variable value in constructor
+boolean constant
+initializing struct variable value in constructor
+double constant
+initializing struct variable value in constructor
+double constant
+initializing struct variable value in constructor
+character constant
+initializing struct variable value in constructor
+writing structures class code to the output file
+global variable declaration
+global variable declaration
+global variable declaration
+declaring struct field
+initializing struct variable value in constructor
+writing structures class code to the output file
+global variable declaration
+global variable declaration
+function declaration
+complete local variable declaration
+array declaration
+integer constant
+foreach loop
+function call statement
+function access compile
+variable access
+function access invoke
+variable push
+variable access
+loading variable access
+Writing the generated code into the executable output file
